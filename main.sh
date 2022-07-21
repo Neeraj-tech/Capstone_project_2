@@ -13,4 +13,12 @@ sudo apt install ansible -y
 sudo apt install awscli -y
 sudo apt install jq -y
 echo "installtion of Terraform java Ansible to current system completed."
+echo "installion of jenkins started........................................................"
+curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo tee \
+    /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
+    https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
+    /etc/apt/sources.list.d/jenkins.list > /dev/null
+sudo apt-get update
+sudo apt-get install jenkins -y
 echo "To launch instance choose right main.tf in main1.sh it will further lead the process."
