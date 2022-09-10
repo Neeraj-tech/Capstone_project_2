@@ -1,1 +1,109 @@
-This is test content ....This is another test content ....
+S no.
+Question
+1
+Write a Hello world program. Create HelloWorld.c then compile to create HelloWorld.exe or Helloworld.o as output.
+Run the output file to show Hello World message on console
+2
+
+3
+
+4
+The distance between two cities(in KM) is input through the keyboard. Write a program to convert and print this distance in meters, feet, inches and centimeters.
+5
+The length & breadth of a rectangle and radius of a circle are input through the keyboard. Write a program to calculate the area & perimeter of the rectangle, and the area & circumference of the circle.
+6
+If a four-digit number is input through the keyboard, write a program to obtain the sum of the first and last digit of this number.
+7
+If a five-digit number is input through the keyboard, write a program to print a new number by adding one to each of its digits. 12391 as 23402
+8
+Write a program to find the factorial value of any number entered through the keyboard.
+9
+Write a program to print out all armstrong numbers between 1 & 500. Example: 153 = (1*1*1)+(5*5*5)+(3*3*3)
+10
+Write a program to print Fibonacci series from 1 to N, where N is received as input.
+11
+Write a function to print a given number in reverse order. 1234 as 4321
+12
+Write a function to calculate simple interest.
+13
+Write a function to find sum of digits of given number using Recursion & Iteration
+14
+Write a function to find m^n using Recursion & Iteration
+15
+Write a program to find sum of a given integer array using recursion
+16
+Try Macros & Directives
+17
+Macro Continuation, stringize or number-sign operator(‘#’), Parameterized Macros
+18
+Write a program to find the area of a circle, passing arguments to macro.Preprocessor
+19
+Write a program to print the largest and smallest element in an Array.
+20
+Try pass by value and pass by reference in a function. 
+21
+Write a program to reverse an array.
+22
+Write a program to find smallest element in two dimensional array
+23
+Write a program to input two matrix and print their multiplication.
+24
+
+
+25
+Write a program to check if given string is palindrome or not
+26
+Write a program to print a given string rotated n number of times. Hello once rotated become elloH
+27
+Write a program to sort characters in String.
+28
+Write a program to compare two strings without using strcmp function.
+29
+Write a program, which declares the structure of student records. Fields in structure shall be Name, Age and Roll Number. Take input from the user for 10 student records. Print the student records in ascending order of their roll numbers.
+30
+Write a program to write into a file.
+31
+Write a program to read from a file.	
+32
+Pointer illustration
+33
+Pointer illustration 
+34
+Write a C function to swap two numbers
+35
+Write a C function to sort an array of ten integer values in ascending order.
+36
+Write a program to create an array and print sum of elements.
+Try realloc().
+37
+Write a function to take row and column as input from the user, initialize the two dimensional matrix and then take user input for each row x column elements.
+Extend the above mentioned problem to print matrix in reverse order.
+38
+Write Basic structure of the SSL linked list to add 10 numbers and print it.
+Extend the above by writing a function to add an element after a value. Then again write a function to delete that value.
+39
+Write Basic structure of the DDL linked list to add 10 numbers and print it. And also try to print in reverse order.
+
+
+40
+Write a program to print Linked List in reverse order, search an element, check if list is palindrome, if it contains duplicate elements.
+
+
+41
+Write a program to create Binary Tree from given Array
+42
+Write a program to print in-order, pre-order and post-order traversal of Binary Tree
+43
+Write a program to find a specific element in a binary search tree.
+44
+Try Different sorting like Selection Sort, Bubble Sort, Quick Sort
+
+
+Sample PROJECTS:
+1
+Using and creating custom header files
+2
+Using command line arguments
+3
+Browsing through a list of words. Arranging them in data structure and performing search
+
